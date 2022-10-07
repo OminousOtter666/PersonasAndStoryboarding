@@ -1,0 +1,57 @@
+.interview-body {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-left: 35px;
+}
+
+.interview-toggles {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.interview-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7px;
+    background-color: #DDDDDD;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 5px;
+}
+
+.interview-button:hover {
+    background-color: #CCCCCC;
+}
+
+.interview-image {
+    width: 125px;
+    height: 125px;
+}
+
+.interview-questions {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    gap: 25px;
+}
+
+.interview-response {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.interview-subtitle {
+    margin: -15px 40px 30px;
+}
+
+.interview-question {
+    margin-bottom: -25px;;
+}
+
+.interview-answer {
+    margin-left: 20px;
+}

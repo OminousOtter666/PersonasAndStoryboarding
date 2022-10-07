@@ -1,3 +1,4 @@
+import React  from 'react';
 import "./App.css";
 import Interface from "./components/Interface";
 import Interviews from "./components/Interviews";
@@ -17,10 +18,13 @@ function App() {
         </div>
       </div>
       <div className="app-body">
+        <div className='app-inters'>
         <Interface />
         <Interviews />
+        </div>
         <Personas />
-        <Storyboard />
+        <Storyboard id="storyboard"/>
+        
       </div>
     </div>
   );
