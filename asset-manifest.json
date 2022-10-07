@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PersonasAndStoryboarding/static/css/main.9d5bea73.css",
+    "main.js": "/PersonasAndStoryboarding/static/js/main.4083bcae.js",
+    "static/js/787.57f86dc9.chunk.js": "/PersonasAndStoryboarding/static/js/787.57f86dc9.chunk.js",
+    "static/media/s2.png": "/PersonasAndStoryboarding/static/media/s2.e81324946ff2e3dc80f7.png",
+    "static/media/s6.png": "/PersonasAndStoryboarding/static/media/s6.bda1b3d9f27707df054b.png",
+    "static/media/s1.png": "/PersonasAndStoryboarding/static/media/s1.b5362eb2d6697de88461.png",
+    "static/media/s4.png": "/PersonasAndStoryboarding/static/media/s4.aedfe06bc07705b98a5d.png",
+    "static/media/s3.png": "/PersonasAndStoryboarding/static/media/s3.d82b54dbfd7a0fb3d97c.png",
+    "static/media/s5.png": "/PersonasAndStoryboarding/static/media/s5.d7b2b96d8f8867b5a95d.png",
+    "static/media/student2.png": "/PersonasAndStoryboarding/static/media/student2.94a9be0619d37c543f91.png",
+    "static/media/student1.png": "/PersonasAndStoryboarding/static/media/student1.670617f5d37e6db5e79e.png",
+    "static/media/student3.png": "/PersonasAndStoryboarding/static/media/student3.c1ce8f62e05eb012a160.png",
+    "static/media/professor.svg": "/PersonasAndStoryboarding/static/media/professor.92a97d7ad1c840b3a26a7a22a3f74304.svg",
+    "static/media/student_leader.svg": "/PersonasAndStoryboarding/static/media/student_leader.55e336c6cab5f322768583aab17335a8.svg",
+    "static/media/projector.svg": "/PersonasAndStoryboarding/static/media/projector.bb4bec60146394804ac3c5ff39b11e68.svg",
+    "static/media/settings.svg": "/PersonasAndStoryboarding/static/media/settings.7d4fb748bfb2664b71c5a05f6f5735f0.svg",
+    "static/media/star.svg": "/PersonasAndStoryboarding/static/media/star.59a3c4f1b4293955fac63452d73167d4.svg",
+    "index.html": "/PersonasAndStoryboarding/index.html",
+    "main.9d5bea73.css.map": "/PersonasAndStoryboarding/static/css/main.9d5bea73.css.map",
+    "main.4083bcae.js.map": "/PersonasAndStoryboarding/static/js/main.4083bcae.js.map",
+    "787.57f86dc9.chunk.js.map": "/PersonasAndStoryboarding/static/js/787.57f86dc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5bea73.css",
+    "static/js/main.4083bcae.js"
+  ]
+}
